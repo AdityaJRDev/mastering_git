@@ -1,2 +1,3 @@
 Hello
 Learning Git, Github !
+Trying to commit and push
